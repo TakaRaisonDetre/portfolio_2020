@@ -31,13 +31,13 @@ export function FooterContainer(){
                   
                </Footer.Column>
 
-               {/* <Footer.Column>
-                   <Footer.Link href="#">About Suruga Creater Village</Footer.Link>
-                   <Footer.Link href="#">Musician Application</Footer.Link>
-                   <Footer.Link href="#">Videographer Application</Footer.Link>
-                   <Footer.Link href="#">Investor Application</Footer.Link>
+              <Footer.Column>
+                   <Footer.Link href="#">その他のプロジェクト</Footer.Link>
+                   <Footer.Link href="#">音源制作</Footer.Link>
+                   <Footer.Link href="#">中小企業顧問・補助金コンサルティング</Footer.Link>
+                   <Footer.Link href="#">音楽イベント開発</Footer.Link>
                   
-               </Footer.Column> */}
+               </Footer.Column> 
 
            </Footer.Row>
            <Footer.Break/>
