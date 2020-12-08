@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "title": "技術的ポートフォリオウェブサイト",
+        "subTitle": "NetFlixのクローンFirebaseアプリの構築をreactのStyled-componentsを使って実施。現在開発中ですが、ご覧いただけます。ここに弊社の関連する動画を入れて世界に発信します。",
+        "description": "firebaseのホスティングを使ってデプロイされているreactを使ったウェブサイトになります。Styled-componentsを使ったデザインで各々のパーツ（BodyやHeaderやFooter)がコンポーネント化されています。",
+        "direction": "row"
+    },
+    {
+        "id": 2,
+        "title": "Flux設計でReduxを駆使したFirebase簡易ECウェブアプリ",
+        "subTitle": "react特有のProp　Drilling問題を解決するRedux-sagaを使った状態管理がコンソールで確認できる簡易ECサイトになります。カートの情報は全てReduxのStoreに渡されて、随時状態を認識、各コンポーネントで共有するPropやStateを利用できます。",
+        "description": "ReduxのReducer、Action、SagaなどをUserコンポーネントとCartコンポーネント毎に実装させて、Firebaseのログイン認証の状態や、カートの商材の個数や金額の管理をReduxのFLUX設計に基づき実装しています。",
+        "direction": "row-reverse"
+    },
+    {
+        "id": 3,
+        "title": "REDUXのFLUXに依存せず、ContextAPIを使って状態を管理するアプリ",
+        "subTitle": "このリゾート地を閲覧するサイトでは、あえてReduxは使わずContextAPIで状態管理をしています。",
+        "description": "Hook機能が、新たにreactに加わり状態管理か容易になってきていることを受け、Reduxを使わずuseContextAPIを使ってデータの受け渡しをできる様にした事例",
+        "direction": "row"
+    },
+    {
+        "id": 4,
+        "title": "Firebaseのセキュリティートークンを使い表示されたパスワードによって認証するExpressアプリ",
+        "subTitle": "Firebaseの提供するCloud　Functionsを使ったExpressアプリの構築します。",
+        "description": "セキュリティトークンで生成されたワンタイムパスワードは”一度使ったら再利用できない”特性を生かして、強固なセキュリティをFirebaseの認証を使うアプリやシステムに実装することができます。",
+        "direction": "row-reverse"
+    },
+    {
+        "id": 5,
+        "title": "FirebaseのStorage機能とyoutubeのAPIを使った動画配信アプリ",
+        "subTitle": "様々なAPIとFirebaseのNonSQLDBを連携させたアプリの構築",
+        "description": "FirebaseのNonSQLデータベースであるFirestoreを使ってAPIで取得した様々なデータを格納して時系列で分析したり、Storageを使って動画や画像を格納してDBで管理したり、様々な機能をもつアプリの開発をしております。",
+        "direction": "row"
+    }
+]
