@@ -33,7 +33,7 @@ width: 50%;
 
 export const Title = styled.h1`
 font-size: 22px;
-　color:black;
+　color: #fffafa;
   line-height: 1.1;
   margin-bottom: 8px;
   @media (max-width: 600px) {
@@ -42,13 +42,24 @@ font-size: 22px;
   `;
   export const SubTitle = styled.h2`
   font-size: 16px;
-  color:#121212;
+  color:#fffafa;
   font-weight: normal;
   line-height: normal;
   @media (max-width: 600px) {
     font-size: 14px;
   }
 `;
+
+export const Description = styled.div`
+font-size: 13px;
+  color: #f5f5f5;
+  font-weight: normal;
+  line-height: normal;
+  @media (max-width: 600px) {
+    font-size: 13px;
+  }
+`
+
 
 export const Image = styled.img`
   max-width: 100%;

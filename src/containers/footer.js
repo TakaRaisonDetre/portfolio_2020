@@ -18,7 +18,8 @@ export function FooterContainer(){
                <Footer.Column>
                    <Footer.Link href="#">開発依頼 </Footer.Link>
                    <Footer.Link href="#">haratakayasu@raisondetre.tokyo</Footer.Link>
-                 
+                   <Footer.Link href="#">https://github.com/TakaRaisonDetre</Footer.Link>
+                   <Footer.Link href="#">YOUTUBE: 駿河クリエイターヴィレッジ</Footer.Link>
                   
                </Footer.Column>
 

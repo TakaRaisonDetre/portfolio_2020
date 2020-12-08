@@ -2,15 +2,15 @@
     {
         "id": 1,
         "title": "技術的ポートフォリオウェブサイト",
-        "subTitle": "NetFlixのクローンFirebaseアプリの構築をreactのStyled-componentsを使って実施。現在開発中ですが、ご覧いただけます。ここに弊社の関連する動画を入れて世界に発信します。",
-        "description": "firebaseのホスティングを使ってデプロイされているreactを使ったウェブサイトになります。Styled-componentsを使ったデザインで各々のパーツ（BodyやHeaderやFooter)がコンポーネント化されています。",
+        "subTitle": "NetFlixのクローンFirebaseアプリの構築をreactのStyled-componentsを使って開発。",
+        "description": "現在開発中ですがご覧いただけます。ここに弊社の関連する動画を入れて世界に発信します。firebaseのホスティングを使ってデプロイされているreactを使ったウェブサイトになります。Styled-componentsを使ったデザインで各々のパーツ（BodyやHeaderやFooter)がコンポーネント化されています。",
         "direction": "row"
     },
     {
         "id": 2,
         "title": "Flux設計でReduxを駆使したFirebase簡易ECウェブアプリ",
-        "subTitle": "react特有のProp　Drilling問題を解決するRedux-sagaを使った状態管理がコンソールで確認できる簡易ECサイトになります。カートの情報は全てReduxのStoreに渡されて、随時状態を認識、各コンポーネントで共有するPropやStateを利用できます。",
-        "description": "ReduxのReducer、Action、SagaなどをUserコンポーネントとCartコンポーネント毎に実装させて、Firebaseのログイン認証の状態や、カートの商材の個数や金額の管理をReduxのFLUX設計に基づき実装しています。",
+        "subTitle": "react特有のProp Drilling問題を解決するRedux-Sagaを使った状態管理がコンソールで確認できる簡易ECサイトの構築。",
+        "description": "カートの情報は全てReduxのStoreに渡されて、随時状態を認識、各コンポーネントで共有するPropやStateを利用できます。ReduxのReducer、Action、SagaなどをUserコンポーネントとCartコンポーネント毎に実装させて、Firebaseのログイン認証の状態や、カートの商材の個数や金額の管理をReduxのFLUX設計に基づき実装しています。",
         "direction": "row-reverse"
     },
     {
